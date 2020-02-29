@@ -8,6 +8,7 @@ A clear and engaging title and image.
 Your questions of interest.
 Your findings for those questions with a supporting statistic(s), table, or visual. 
 
+# Specific Questions:
 What's the ratio of total wages/ total potential for clubs. Which clubs are the most economical?
 What's the age distribution like? How is it related to player's overall rating?
 How is a player's skils set influence his potential? Can we predict a player's potential based on his skills'
