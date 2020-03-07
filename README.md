@@ -1,14 +1,41 @@
-# Write-a-Data-Science-Blog-Post
-Creating a blog post and Github repository to begin building a data science portfolio of your own.
+### Table of Contents
 
-The purpose of this project is to show off your technical skills, but more importantly for you to begin putting together a portfolio that shows your ability to effectively communicate technical results. Your technical skills will be built up as the program progresses, but for this project the main focus should be on communicating effectively the results of your analysis.
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Description](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-# Your blog must provide the following:
-A clear and engaging title and image.
-Your questions of interest.
-Your findings for those questions with a supporting statistic(s), table, or visual. 
+## Installation <a name="installation"></a>
 
-# Specific Questions:
-What's the ratio of total wages/ total potential for clubs. Which clubs are the most economical?
-What's the age distribution like? How is it related to player's overall rating?
-How is a player's skils set influence his potential? Can we predict a player's potential based on his skills'
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+
+## Project Motivation<a name="motivation"></a>
+
+This is an Udacity Nanodegree project. I chose FIFA 19 complete player dataset. 
+
+As a football fan,  it would be quite interesting to apply data analysis skills here. 
+
+My key interests would be:
+
+1. What's the ratio of  total wages/ total potential for clubs. Which clubs are the most economical ？
+2. How is nation team player total market value distributed? Probably show a distribution plot in a world map?
+3. How is a player's skilsl set influence his potential/wage? Can we predict a player's potential based on his skills' set? 
+
+## File Descriptions <a name="files"></a>
+
+Data.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage, etc. 
+
+There is also a notebook available here to showcsae all my work related to my three questions.
+
+
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available
+
+
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Otherwise, feel free to use the code here as you would like!
